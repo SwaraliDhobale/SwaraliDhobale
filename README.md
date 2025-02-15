@@ -1,6 +1,7 @@
-My Skills & Expertise-
---> Java 
---> Software Development
---> Artificial Intelligence 
---> Problem-Solving & algorithmic thinking
---> Continuous learning & innovation
+# My Skills and Expertise  
+
+- **Java**  
+- **Software Engineering and Development**  
+- **Artificial Intelligence**  
+- **Problem-Solving and Algorithmic Thinking**  
+- **Continuous Learning and Innovation**  
