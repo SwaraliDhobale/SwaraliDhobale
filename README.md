@@ -1,7 +1,7 @@
-# My Skills and Expertise  
+# My Skills 
 
-➡ **Java**  
-➡ **Software Engineering and Development**  
-➡ **Artificial Intelligence**  
-➡ **Problem-Solving and Algorithmic Thinking**  
-➡ **Continuous Learning and Innovation**  
+➝**Java**  
+➝**Software engineering and development**  
+➝**Artificial intelligence**  
+➝**Problem-Solving**  
+➝**Continuous learning and upskilling**  
